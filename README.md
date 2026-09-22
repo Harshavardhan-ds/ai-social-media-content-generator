@@ -4,7 +4,7 @@ A generative AI application that creates platform-ready social media captions, h
 
 The project uses an LLM through Groq and provides both a Streamlit web interface and a command-line interface.
 
-**🔗 Live demo (interactive preview):** https://claude.ai/artifact/Uk2N1jZCCuSNSkmtCbK27F
+**🔗 Live demo (interactive preview):** https://ai-social-media-content-generator-mv7injpvb5pndh52tupsqc.streamlit.app/
 
 ## Features
 
@@ -94,8 +94,7 @@ To get a real, shareable `*.streamlit.app` URL (Streamlit Community Cloud is fre
 
 A working interactive preview of the generator's UI and logic is hosted here:
 
-**👉 https://claude.ai/artifact/Uk2N1jZCCuSNSkmtCbK27F**
-
+**👉https://ai-social-media-content-generator-mv7injpvb5pndh52tupsqc.streamlit.app/
 > Note: the hosted preview is an HTML/JS recreation of this Streamlit app for quick testing without any setup — it uses Claude instead of Groq under the hood, so wording will differ slightly from your local Streamlit app. For the real Groq-backed Streamlit app, run it locally or deploy it yourself with the steps above.
 
 ## How It Works
